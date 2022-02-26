@@ -65,6 +65,7 @@ public enum KbdTypesCodePages {
 	SKBX("Slovakian 870-sk","SKB","959","870","870-sk"), // Workaround, to catch up Java codepage '870-sk'
 //	YGI("Slovenian","YGI","959","870","870"),
 	SPB("Spanish","SPB","697","284","284"),
+	SPE("Spanish","SPE","695","1145","1145"),
 	SPI("Spanish MNCS","SPI","697","500","500"),
 	SSB("Spanish Speaking","SSB","697","284","284"),
 	SSI("Spanish Speaking MNCS","SSI","697","500","500"),
