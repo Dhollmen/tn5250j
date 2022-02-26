@@ -2,7 +2,14 @@
  Enhancements/Change Log for Tn5250j
 ===============================================================================
 
+--- v0.8.1 ----------------------------------------------------- 26/02/2022 ---
+
+CHG: update JTOpen 10.7
+FIX: CCSID Codepage 1145 = Spanish SPE.
+
 --- v0.8.0 ----------------------------------------------------- ??/??/20?? ---
+
+A Java Runtime v1.8 or newer is required from now on
 
 FIX: Forces the font to print accented characters 
 ADD: shortcut to dspmsg qsysopr
